@@ -1,0 +1,50 @@
+{
+  "info": {
+    "money": 10000,
+    "day": 1
+  },
+  "portfolio": [
+    {
+      "stockId": 0,
+      "quantity": 10
+    },
+    {
+      "stockId": 1,
+      "quantity": 0
+    },
+    {
+      "stockId": 2,
+      "quantity": 5
+    },
+    {
+      "stockId": 3,
+      "quantity": 0
+    }
+  ],
+  "stocks": [
+    {
+      "id": 0,
+      "name": "BMW",
+      "price": 100,
+      "variation": 10
+    },
+    {
+      "id": 1,
+      "name": "Google",
+      "price": 200,
+      "variation": 15
+    },
+    {
+      "id": 2,
+      "name": "Apple",
+      "price": 250,
+      "variation": 20
+    },
+    {
+      "id": 3,
+      "name": "Twitter",
+      "price": 10,
+      "variation": 1
+    }
+  ]
+}
